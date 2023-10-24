@@ -1,0 +1,34 @@
+ItemCode,ItemName,FullDescription,Price,InStock
+AD-001,Adapter Type-C To HDMI Support 4K 60Hz (USB 3.1) Model : 4181 (U3.1 TO HD4K-60H),,$ 14.00,9
+AD-002,Adapter Type-C To HDMI (USB 3.1) Model : 1099 (U3.1 TO HDMI),,$ 10.00,12
+AD-003,Adapter Type-C TO VGA  (U3.1 TO VGA),,$ 11.00,5
+AD-050,Adapter for USB,,$ 3.00,17
+AD-055,Adapter Ubiquiti U-POE-at 30W-PoE adapter 48V DC @ 0.65A,"- Dimensions :93 x 62 x 35 mm (3.66 x 2.44 x 1.38"")
+- Weight : 156 g (5.5 oz)
+- Output voltage : 48V DC @ 0.65A
+- LAN activity indicator : No
+- Gigabit LAN port : Yes
+- Remote reset capability : No
+- Reset button : No
+- Rated voltage : 100—240V AC @ 50/60Hz
+- Input current : 0.75A @ 90V AC
+- Inrush current : <100A peak at 26°C
+- Efficiency : 87+%
+- Output ripple : 1% max.
+- Switching frequency : 70 kHz max. 
+- Line regulation : ≤ 3%
+- Load regulation : ≤ 5%
+- 2-pair powering : Pins 4,5 (+) and 7,8 (-)
+- 4-pair powering : No
+- AC connector : IEC-320 C6
+- Data In / PoE : RJ45 shielded socket
+- Surge protection : Difference and common mode
+- Clamping protection : 11V data, 60V power
+- Max. surge discharge : 1500A (8/20 μs) power
+- Peak pulse current : 36A (10/1000 μs) data
+- Shunt capacitance : <5 pF data
+- Response time : <1 ns
+- Operating temperature : 0 to 40° C (32 to 104° F)
+- Storage temperature : -30 to 70°C (-22 to 158° F)
+- Operating humidity : 5 to 90% noncondensing
+- Certifications : CE, FCC, IC, UL",$ 31.00,13
